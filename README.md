@@ -32,9 +32,17 @@
 ### 主页侧边抽屉栏
 <div style="display: flex;">
  
- <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/2.png" alt="Image 10"  width="200">
+ <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/2.png" alt="Image 10"  width="200" style="margin-right: 30px;">
+
+ <img src="https://github.com/MrNocLb/flutter_RedBook/blob/master/1.gif?raw=true" alt="Image 10"  width="200" style="margin-right: 30px;">
+
+ <img src="https://github.com/MrNocLb/flutter_RedBook/blob/master/2.gif?raw=true" alt="Image 10"  width="200">
+
 
 </div>
+
+
+
 
 ### 购物页面
 <div style="display: flex;">
@@ -44,10 +52,15 @@
   <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/5.png" alt="Image 3" width="200">
 
 </div>
+
+
+###
+###
+
 <div style="display: flex;">
  
- <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/51.png" alt="Image 10"  width="200">
-
+ <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/51.png" alt="Image 10"  width="200" style="margin-right: 30px;">
+ <img src="https://github.com/MrNocLb/flutter_RedBook/blob/master/3.gif?raw=true" alt="Image 10"  width="200" >
 </div>
 
 ### 消息页面
