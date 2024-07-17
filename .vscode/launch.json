@@ -1,0 +1,56 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main.dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "comlogin_sdk",
+            "cwd": "comlogin_sdk",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "comlogin_sdk (profile mode)",
+            "cwd": "comlogin_sdk",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "comlogin_sdk (release mode)",
+            "cwd": "comlogin_sdk",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "sbluebooks",
+            "cwd": "sbluebooks",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "sbluebooks (profile mode)",
+            "cwd": "sbluebooks",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "sbluebooks (release mode)",
+            "cwd": "sbluebooks",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "lib/main.dart"
+        }
+    ]
+}
