@@ -38,9 +38,9 @@
 
 ### 购物页面
 <div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/4.png" alt="Image 1"  style="margin-right: 10px;"width="200">
+  <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/4.png" alt="Image 1"  style="margin-right: 30px;"width="200">
   
-  <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/3.png" alt="Image 2" width="200" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/3.png" alt="Image 2" width="200" style="margin-right: 30px;">
   <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/5.png" alt="Image 3" width="200">
 
 </div>
