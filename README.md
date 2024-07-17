@@ -14,29 +14,56 @@
 ### 基本页面
 
 #### 开屏动画
-![开屏动画](https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/0.jpg)
+<div style="display: flex;">
+ 
+ <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/0.png" alt="Image 0"  width="200">
+
+</div>
+
 ###
 ###
 ###  主页
-![主页](https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/1.png)
+<div style="display: flex;">
+ 
+ <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/1.png" alt="Image 10"  width="200">
+
+</div>
 
 ### 主页侧边抽屉栏
-![主页侧边抽屉栏](https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/2.png)
+<div style="display: flex;">
+ 
+ <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/2.png" alt="Image 10"  width="200">
+
+</div>
 
 ### 购物页面
-![购物页面](https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/4.png)
-###
-![购物页面](https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/3.png)
-###
-![购物页面](https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/5.png)
-###
-![购物页面](https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/51.png)
+<div style="display: flex;">
+  <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/4.png" alt="Image 1"  style="margin-right: 10px;"width="200">
+  
+  <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/3.png" alt="Image 2" width="200" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/5.png" alt="Image 3" width="200">
+
+</div>
+<div style="display: flex;">
+ 
+ <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/51.png" alt="Image 10"  width="200">
+
+</div>
+
 ### 消息页面
-![消息页面](https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/6.png)
+<div style="display: flex;">
+ 
+ <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/6.png" alt="Image 10"  width="200">
+
+</div>
 
 ###
 ### 个人页面
-![个人页面](https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/7.png)
+<div style="display: flex;">
+ 
+ <img src="https://raw.githubusercontent.com/MrNocLb/flutter_RedBook/2a73eb32dcdd20fad7e76232073925ee36c3654d/imgs/7.png" alt="Image 10"  width="200">
+
+</div>
 
 
 
